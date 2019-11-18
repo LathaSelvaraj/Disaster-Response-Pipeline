@@ -5,7 +5,6 @@
 1.  File Descriptions
 2.  Results
 3.  Instructions
-4. Installation
 
 ## File Descriptions
 There are three main foleders:
